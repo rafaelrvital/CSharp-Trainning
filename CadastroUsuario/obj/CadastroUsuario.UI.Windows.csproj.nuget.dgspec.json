@@ -4,6 +4,40 @@
     "C:\\workspace\\CSharp-Trainning\\CadastroUsuario\\CadastroUsuario.UI.Windows.csproj": {}
   },
   "projects": {
+    "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj",
+        "projectName": "CadastroUsuario.DB",
+        "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj": {
+                "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj",
+        "projectName": "CadastroUsuario.Models",
+        "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\workspace\\CSharp-Trainning\\CadastroUsuario\\CadastroUsuario.UI.Windows.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +61,14 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj": {
+                "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj"
+              },
+              "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj": {
+                "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

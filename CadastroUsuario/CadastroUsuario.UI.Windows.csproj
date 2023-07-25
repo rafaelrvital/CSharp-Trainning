@@ -8,4 +8,9 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\CadastroUsuario.DB\CadastroUsuario.DB.csproj" />
+    <ProjectReference Include="..\CadastroUsuario.Models\CadastroUsuario.Models.csproj" />
+  </ItemGroup>
+
 </Project>

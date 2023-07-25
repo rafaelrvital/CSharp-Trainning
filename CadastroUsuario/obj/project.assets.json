@@ -1,11 +1,47 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "CadastroUsuario.DB/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "CadastroUsuario.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CadastroUsuario.DB.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CadastroUsuario.DB.dll": {}
+        }
+      },
+      "CadastroUsuario.Models/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CadastroUsuario.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CadastroUsuario.Models.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CadastroUsuario.DB/1.0.0": {
+      "type": "project",
+      "path": "../CadastroUsuario.DB/CadastroUsuario.DB.csproj",
+      "msbuildProject": "../CadastroUsuario.DB/CadastroUsuario.DB.csproj"
+    },
+    "CadastroUsuario.Models/1.0.0": {
+      "type": "project",
+      "path": "../CadastroUsuario.Models/CadastroUsuario.Models.csproj",
+      "msbuildProject": "../CadastroUsuario.Models/CadastroUsuario.Models.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "CadastroUsuario.DB >= 1.0.0",
+      "CadastroUsuario.Models >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\rafae\\.nuget\\packages\\": {}
@@ -33,7 +69,14 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj": {
+              "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.DB\\CadastroUsuario.DB.csproj"
+            },
+            "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj": {
+              "projectPath": "C:\\workspace\\CSharp-Trainning\\CadastroUsuario.Models\\CadastroUsuario.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

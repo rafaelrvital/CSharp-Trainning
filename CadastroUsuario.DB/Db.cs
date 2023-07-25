@@ -12,7 +12,7 @@ namespace CadastroUsuario.DB
         {
             get
             {
-                return @"Data Source=DESKTOP-PBQ9T7I\SQLEXPRESS;Initial Catalog=EmpresaDB;Integrated Security=true"
+                return @"Data Source=DESKTOP-PBQ9T7I\SQLEXPRESS;Initial Catalog=EmpresaDB;Integrated Security=true";
             }
         }
     }
