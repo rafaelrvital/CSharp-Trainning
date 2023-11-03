@@ -1,0 +1,60 @@
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.AssemblyReference.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.ClientesForm.resources
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.GenerateResource.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.AssemblyInfo.cs
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.exe
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.deps.json
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.runtimeconfig.json
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.Models.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.Models.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.CopyComplete
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\refint\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.genruntimeconfig.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\ref\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.PrincipalForm.resources
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.dll.config
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.exe
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.deps.json
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.runtimeconfig.json
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.UI.Windows.pdb
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.Models.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.pdb
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.DB.dll.config
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\bin\Debug\net6.0-windows\CadastroUsuario.Models.pdb
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.AssemblyReference.cache
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.ClientesForm.resources
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.PrincipalForm.resources
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.GenerateResource.cache
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.AssemblyInfoInputs.cache
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.AssemblyInfo.cs
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.csproj.CopyComplete
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\refint\CadastroUsuario.UI.Windows.dll
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.pdb
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\CadastroUsuario.UI.Windows.genruntimeconfig.cache
+C:\workspace\CSharp-Trainning\Cadastro Usuário\CadastroUsuario\obj\Debug\net6.0-windows\ref\CadastroUsuario.UI.Windows.dll

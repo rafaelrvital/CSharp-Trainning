@@ -1,6 +1,0 @@
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\bin\Debug\CadastroUsuario.Models.dll
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\bin\Debug\CadastroUsuario.Models.pdb
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\obj\Debug\CadastroUsuario.Models.csproj.AssemblyReference.cache
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\obj\Debug\CadastroUsuario.Models.csproj.CoreCompileInputs.cache
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\obj\Debug\CadastroUsuario.Models.dll
-C:\workspace\CSharp-Trainning\CadastroUsuario.Models\obj\Debug\CadastroUsuario.Models.pdb

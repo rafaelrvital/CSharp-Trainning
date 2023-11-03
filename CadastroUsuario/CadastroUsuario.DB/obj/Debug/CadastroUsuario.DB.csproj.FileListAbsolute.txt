@@ -1,0 +1,12 @@
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\obj\Debug\CadastroUsuario.DB.csproj.AssemblyReference.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\obj\Debug\CadastroUsuario.DB.csproj.CoreCompileInputs.cache
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\CadastroUsuario.DB.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\CadastroUsuario.DB.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\CadastroUsuario.Models.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\CadastroUsuario.Models.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\obj\Debug\CadastroUsuario.DB.csproj.CopyComplete
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\obj\Debug\CadastroUsuario.DB.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\obj\Debug\CadastroUsuario.DB.pdb
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\CadastroUsuario.DB.dll.config
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\System.Data.SqlClient.dll
+C:\workspace\CSharp-Trainning\CadastroUsuario.DB\bin\Debug\System.Data.SqlClient.xml
