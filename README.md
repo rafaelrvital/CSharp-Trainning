@@ -17,3 +17,4 @@ This repository is intended for publishing projects in C# carried out in bootcam
 ## Projects:
 
 - <a href="https://github.com/rafaelrvital/CSharp-Trainning/tree/main/CadastroUsuario">Customer registration</a>
+- <a href="https://github.com/rafaelrvital/CSharp-Trainning/tree/main/bootcamp-DecolaTech2024">Decola Tech Bootcamp 2024</a>
