@@ -15,4 +15,4 @@
 
 ## Descrição:
 
-Estacionamento é um sistema desenvolvido em C# utilizado para gerenciar os veiculos estacionados, bem como calcular o valor cobrado com base no tempo informado.
+Estacionamento é um sistema desenvolvido em C# utilizado para gerenciar os veículos estacionados, bem como calcular o valor cobrado com base no tempo informado.
