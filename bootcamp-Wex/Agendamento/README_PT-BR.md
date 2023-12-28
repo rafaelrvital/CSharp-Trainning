@@ -19,4 +19,4 @@
 Agendamento é um sistema desenvolvido em C# utilizado para o gerenciamento de tarefa, que consiste em uma aplicação web api, contendo os métodos conforme descrito:
 
 **Swagger**
-![Diagrama da classe Tarefa](diagrama.png)
+![Métodos Swagger](swagger.png)

@@ -1,3 +1,4 @@
+###### <div align=right>Change</div>
 <a href="https://github.com/rafaelrvital/CSharp-Trainning/blob/main/README.md"><img src="https://github.com/rafaelrvital/rafaelrvital/blob/main/assets/flags/us.png" width="25" align="right" title="Change to english"></a>
 
 <br>
@@ -18,3 +19,4 @@ Repositório destinatinado a publicação de projetos em C# realizados em bootca
 
 - <a href="https://github.com/rafaelrvital/CSharp-Trainning/tree/main/CadastroUsuario">Cadastro de Usuário</a>
 - <a href="https://github.com/rafaelrvital/CSharp-Trainning/tree/main/bootcamp-DecolaTech2024">Bootcamp Decola Tech 2024</a>
+- <a href="https://github.com/rafaelrvital/CSharp-Trainning/tree/main/bootcamp-Wex">Wex Bootcamp</a>

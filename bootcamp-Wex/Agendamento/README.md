@@ -19,4 +19,4 @@
 Agendamento is a system built in C# used for task management, which consists in a web api application, containing the methods as described:
 
 **Swagger**
-![Diagrama da classe Tarefa](diagrama.png)
+![Métodos Swagger](swagger.png)
